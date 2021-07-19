@@ -1,0 +1,3 @@
+D:/Informatica/Algorithms/Algorithms/USACOTrainingProblemsRepo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Informatica/Algorithms/Algorithms/USACOTrainingProblemsRepo/cmake-build-debug/CMakeFiles/Problems.dir
+D:/Informatica/Algorithms/Algorithms/USACOTrainingProblemsRepo/cmake-build-debug/CMakeFiles/edit_cache.dir
