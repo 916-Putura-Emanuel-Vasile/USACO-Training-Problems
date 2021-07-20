@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Informatica/Algorithms/Algorithms/USACOTrainingProblemsRepo/beads.cpp" "D:/Informatica/Algorithms/Algorithms/USACOTrainingProblemsRepo/cmake-build-debug/CMakeFiles/Problems.dir/beads.cpp.obj"
+  "D:/Informatica/Algorithms/Algorithms/USACOTrainingProblemsRepo/milk2.cpp" "D:/Informatica/Algorithms/Algorithms/USACOTrainingProblemsRepo/cmake-build-debug/CMakeFiles/Problems.dir/milk2.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

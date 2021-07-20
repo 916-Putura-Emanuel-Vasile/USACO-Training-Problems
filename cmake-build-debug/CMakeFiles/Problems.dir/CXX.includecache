@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-D:/Informatica/Algorithms/Algorithms/USACOTrainingProblemsRepo/beads.cpp
+D:/Informatica/Algorithms/Algorithms/USACOTrainingProblemsRepo/milk2.cpp
 iostream
 -
+algorithm
+-
 fstream
+-
+vector
 -
 

@@ -61,33 +61,33 @@ include CMakeFiles\Problems.dir\progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles\Problems.dir\flags.make
 
-CMakeFiles\Problems.dir\beads.cpp.obj: CMakeFiles\Problems.dir\flags.make
-CMakeFiles\Problems.dir\beads.cpp.obj: ..\beads.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Informatica\Algorithms\Algorithms\USACOTrainingProblemsRepo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Problems.dir/beads.cpp.obj"
+CMakeFiles\Problems.dir\milk2.cpp.obj: CMakeFiles\Problems.dir\flags.make
+CMakeFiles\Problems.dir\milk2.cpp.obj: ..\milk2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Informatica\Algorithms\Algorithms\USACOTrainingProblemsRepo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Problems.dir/milk2.cpp.obj"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Problems.dir\beads.cpp.obj /FdCMakeFiles\Problems.dir\ /FS -c D:\Informatica\Algorithms\Algorithms\USACOTrainingProblemsRepo\beads.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Problems.dir\milk2.cpp.obj /FdCMakeFiles\Problems.dir\ /FS -c D:\Informatica\Algorithms\Algorithms\USACOTrainingProblemsRepo\milk2.cpp
 <<
 
-CMakeFiles\Problems.dir\beads.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/beads.cpp.i"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\Problems.dir\beads.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Informatica\Algorithms\Algorithms\USACOTrainingProblemsRepo\beads.cpp
+CMakeFiles\Problems.dir\milk2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/milk2.cpp.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\Problems.dir\milk2.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Informatica\Algorithms\Algorithms\USACOTrainingProblemsRepo\milk2.cpp
 <<
 
-CMakeFiles\Problems.dir\beads.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/beads.cpp.s"
+CMakeFiles\Problems.dir\milk2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/milk2.cpp.s"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Problems.dir\beads.cpp.s /c D:\Informatica\Algorithms\Algorithms\USACOTrainingProblemsRepo\beads.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Problems.dir\milk2.cpp.s /c D:\Informatica\Algorithms\Algorithms\USACOTrainingProblemsRepo\milk2.cpp
 <<
 
 # Object files for target Problems
 Problems_OBJECTS = \
-"CMakeFiles\Problems.dir\beads.cpp.obj"
+"CMakeFiles\Problems.dir\milk2.cpp.obj"
 
 # External object files for target Problems
 Problems_EXTERNAL_OBJECTS =
 
-Problems.exe: CMakeFiles\Problems.dir\beads.cpp.obj
+Problems.exe: CMakeFiles\Problems.dir\milk2.cpp.obj
 Problems.exe: CMakeFiles\Problems.dir\build.make
 Problems.exe: CMakeFiles\Problems.dir\objects1.rsp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Informatica\Algorithms\Algorithms\USACOTrainingProblemsRepo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Problems.exe"

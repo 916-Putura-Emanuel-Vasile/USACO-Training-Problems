@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/Informatica/Algorithms/Algorithms/USACOTrainingProblemsRepo/beads.cpp">
+		<Unit filename="D:/Informatica/Algorithms/Algorithms/USACOTrainingProblemsRepo/milk2.cpp">
 			<Option target="Problems"/>
 		</Unit>
 		<Unit filename="D:/Informatica/Algorithms/Algorithms/USACOTrainingProblemsRepo/CMakeLists.txt">

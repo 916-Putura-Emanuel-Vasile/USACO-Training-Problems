@@ -127,32 +127,32 @@ Problems\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Problems.dir\build
 .PHONY : Problems\fast
 
-beads.obj: beads.cpp.obj
+milk2.obj: milk2.cpp.obj
 
-.PHONY : beads.obj
+.PHONY : milk2.obj
 
 # target to build an object file
-beads.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Problems.dir\beads.cpp.obj
-.PHONY : beads.cpp.obj
+milk2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Problems.dir\milk2.cpp.obj
+.PHONY : milk2.cpp.obj
 
-beads.i: beads.cpp.i
+milk2.i: milk2.cpp.i
 
-.PHONY : beads.i
+.PHONY : milk2.i
 
 # target to preprocess a source file
-beads.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Problems.dir\beads.cpp.i
-.PHONY : beads.cpp.i
+milk2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Problems.dir\milk2.cpp.i
+.PHONY : milk2.cpp.i
 
-beads.s: beads.cpp.s
+milk2.s: milk2.cpp.s
 
-.PHONY : beads.s
+.PHONY : milk2.s
 
 # target to generate assembly for a file
-beads.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Problems.dir\beads.cpp.s
-.PHONY : beads.cpp.s
+milk2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Problems.dir\milk2.cpp.s
+.PHONY : milk2.cpp.s
 
 # Help Target
 help:
@@ -163,9 +163,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Problems
-	@echo ... beads.obj
-	@echo ... beads.i
-	@echo ... beads.s
+	@echo ... milk2.obj
+	@echo ... milk2.i
+	@echo ... milk2.s
 .PHONY : help
 
 
